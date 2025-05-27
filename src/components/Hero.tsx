@@ -44,11 +44,11 @@ const Hero = () => {
             </button>
 
             <a
-              href="https://drive.google.com/file/d/1qZPbQZy-dSPs5TAN67BccPHUp2fqX_d3/view?usp=drive_link"
+              href="https://drive.google.com/uc?export=download&id=1qZPbQZy-dSPs5TAN67BccPHUp2fqX_d3"
               target="_blank"
               rel="noopener noreferrer"
               className="px-8 py-3 border-2 border-cyan-400 text-cyan-400 rounded-lg font-semibold hover:bg-cyan-400 hover:text-slate-900 transition-all duration-300"
-              download="UmarCV"
+              download="UmarFarook_Resume.pdf"
             >
               Download Resume
             </a>
